@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(210, 49, 49);
+}
+
+.recetario{
+    display: flex;
+    background-color: white;
+    
+}
+
+.comida{
+    box-sizing:content-box;
+    color: yellowgreen;
+    border-style: solid;
+    height: 160px;
+    width: 120px;
+    margin: 10px;
+    padding:50px;
+}
+
+.item-comida{
+    color: black;
+}
+
+h1{
+    margin-left: 500px;
+}
+
+.primer-span{
+    color: red
+}
